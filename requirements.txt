@@ -11,5 +11,5 @@ rcssmin==1.0.6
 rjsmin==1.1.0
 six==1.13.0
 soupsieve==1.9.5
-sqlparse==0.3.0
+sqlparse==0.4.4
 webencodings==0.5.1
